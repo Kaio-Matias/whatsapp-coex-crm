@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-coex-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Webhook WhatsApp Cloud API (Coexistence) -> CRM, para rodar na Vercel",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@vercel/functions": "^1.5.0"
+  }
+}
